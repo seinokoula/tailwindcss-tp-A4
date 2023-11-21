@@ -5,10 +5,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "primary": "#0040e6",
-        "secondary": "#333333",
-        "tertiary": "#706f6e",
-        "title": "000000",
+        "gray-1" : "#333333",
+        "gray-2" : "#4F4F4F",
+        "gray-3" : "#828282",
       },
       fontSize: {
         "title": "2.5rem",
